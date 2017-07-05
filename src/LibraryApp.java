@@ -3,7 +3,6 @@
  * This will host as the runtime for the new app.
  *
  * @author mr-mou
- * these objectc can be serialized or something to save the data.
  * user & admin can list all books in the library  using method listBooks()
  * user can check out books using method chekoutBook()
  * user can return a book using method returnBook()
